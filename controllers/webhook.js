@@ -13,8 +13,7 @@ import axios from "axios";
 dotenv.config();
 
 let status = "initial";
-let notes =
-  "The topic is newtons first law of motion\n A body at rest continues to be at rest";
+let notes = "";
 
 let timeoutid = 0;
 
